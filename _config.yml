@@ -1,0 +1,12 @@
+# Site settings
+source: blog
+destination: blog/site
+permalink: /:year/:month/:day/:title
+title: alois.pw
+email: email@domain.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
